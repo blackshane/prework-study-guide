@@ -1,8 +1,8 @@
-# <The I Wish I Had a Better Title Than Prework Study Guide Webpage Webpage>
+# The I Wish I Had a Better Title Than Prework Study Guide Webpage Webpage
 
-## A study webpage that I created using HTML, CSS, Git, and JavaScript. 
+## Description
 
-I built this project to give me the hands-on experiece I will need when beginning bootcamp while also making an accessable webpage to view my notes for the course. It solves the problem of installing the necessary applications for class while also allowing me to apply them immediately to a task. I learned how to use the command line, HTML, VS Code, DevTools, and how to use resources when I get stuck.
+A study webpage that I created using HTML, CSS, Git, and JavaScript. I built this project to give me the hands-on experiece I will need when beginning bootcamp while also making an accessable webpage to view my notes for the course. It solves the problem of installing the necessary applications for class while also allowing me to apply them immediately to a task. I learned how to use the command line, HTML, VS Code, DevTools, and how to use resources when I get stuck.
 
 
 ## Installation
